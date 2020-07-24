@@ -2,7 +2,7 @@ import Actions from '../constants/constants';
 import axios from 'axios';
 
 export const getProducts = () => (dispatch) => {
-    axios('/products.json')
+    axios('https://miradanko.github.io/products.json')
         .then(result => {
             setTimeout(() => {
                 dispatch({ type: Actions.FETCH_PRODUCTS, payload: result.data });
