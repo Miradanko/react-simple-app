@@ -2,7 +2,7 @@
     {
         "name": "SMALL GATHERED LEATHER BAG",
         "price": 225,
-        "image": "1.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593372/cos/1_kkooqv.jpg",
         "article": "QZ9392",
         "color": "DARK BEIGE",
         "colorId": "#F4A460",
@@ -11,7 +11,7 @@
     {
         "name": "MULTI-FUNCTIONAL PHONE POUCH",
         "price": 49,
-        "image": "2.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593373/cos/2_e16ujw.jpg",
         "article": "QZ1892",
         "color": "KHAKI GREEN",
         "colorId": "#C4B090",
@@ -20,7 +20,7 @@
     {
         "name": "MULTI-FUNCTIONAL PHONE POUCH",
         "price": 49,
-        "image": "3.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593372/cos/3_xyqdsw.jpg",
         "article": "PF3836",
         "color": "ORANGE",
         "colorId": "#FFA500",
@@ -29,7 +29,7 @@
     {
         "name": "LEATHER WRIST SHOPPER",
         "price": 285,
-        "image": "4.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593373/cos/4_q23hgh.jpg",
         "article": "ZL1262",
         "color": "GREY",
         "colorId": "#D3D3D3",
@@ -38,7 +38,7 @@
     {
         "name": "LEATHER SQUARE SHOPPER",
         "price": 285,
-        "image": "5.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593373/cos/5_iq6xps.jpg",
         "article": "PF3895",
         "color": "KHAKI GREEN",
         "colorId": "#C4B090",
@@ -110,7 +110,7 @@
     {
         "name": "TECHNICAL GYM BAG",
         "price": 99,
-        "image": "app001prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app001prod_g9jgbg.jpg",
         "article": "K2905C",
         "color": "LIGHT BLUE",
         "colorId": "#2D578A",
@@ -119,7 +119,7 @@
     {
         "name": "PLEATED FABRIC SHOPPER",
         "price": 59,
-        "image": "app002prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app002prod_gg8ohh.jpg",
         "article": "M34DF1",
         "color": "BRIGHT GREEN",
         "colorId": "#6EB07C",
@@ -128,7 +128,7 @@
     {
         "name": "SMALL LIGHTWEIGHT SHOPPER",
         "price": 49,
-        "image": "app003prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app003prod_icyfow.jpg",
         "article": "Z35DP1",
         "color": "VIBRANT ORANGE",
         "colorId": "#E7633B",
@@ -137,7 +137,7 @@
     {
         "name": "RECYCLED NYLON TOTE",
         "price": 99,
-        "image": "app004prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app004prod_tkgrln.jpg",
         "article": "535FP8",
         "color": "MOLE",
         "colorId": "#CCB49C",
@@ -146,7 +146,7 @@
     {
         "name": "STRAW BELT BAG",
         "price": 89,
-        "image": "app005prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app005prod_eg3ioh.jpg",
         "article": "2106P8",
         "color": "ORANGE",
         "colorId": "#FFA500",
@@ -155,7 +155,7 @@
     {
         "name": "GATHERED LEATHER SHOPPER",
         "price": 285,
-        "image": "app006prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app006prod_z4sihy.jpg",
         "article": "21F6Q8",
         "color": "BLACK",
         "colorId": "#000000",
@@ -164,7 +164,7 @@
     {
         "name": "PLEATED FABRIC SHOPPER",
         "price": 59,
-        "image": "app007prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app007prod_maelm7.jpg",
         "article": "O1F6Q0",
         "color": "BLACK",
         "colorId": "#000000",
@@ -173,7 +173,7 @@
     {
         "name": "LEATHER PHONE POUCH",
         "price": 45,
-        "image": "app008prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app008prod_qpibos.jpg",
         "article": "61FJQ3",
         "color": "KHAKI GREEN",
         "colorId": "#C4B090",
@@ -182,7 +182,7 @@
     {
         "name": "LEATHER PHONE POUCH",
         "price": 49,
-        "image": "app009prod.jpg",
+        "image": "https://res.cloudinary.com/miratsiupiak/image/upload/v1595593479/cos/app009prod_sylokx.jpg",
         "article": "63FJV0",
         "color": "BLACK",
         "colorId": "#000000",
