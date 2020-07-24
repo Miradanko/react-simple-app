@@ -66,7 +66,7 @@ function App(props) {
     <div className="App">
       <Header />
       <Switch>
-        <Route exact path='/' render={() => <Products onSaveToFav={onSaveToFav} />} />
+        <Route exact path='/react-simple-app' render={() => <Products onSaveToFav={onSaveToFav} />} />
         <Route exact path='/favorites' render={() => <Favorites onSaveToFav={onSaveToFav} />} />
         <Route exact path='/cart' component={Cart} />
       </Switch>
