@@ -21,11 +21,11 @@ const Cart = (props) => {
         clearCart();
         localStorage.removeItem('cart');
         getTotal();
-        props.history.push('/')
+        props.history.push('/react-simple-app')
     }
     if(cart===[]) {
         console.log(123)
-        props.history.push('/')
+        props.history.push('/react-simple-app')
     }
 
 

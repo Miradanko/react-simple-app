@@ -25,7 +25,7 @@ const FormikForm = (props) => {
             localStorage.clear();
             clearCart();
             getTotal();
-            props.history.push('/')
+            props.history.push('/react-simple-app')
         }, 1000);
         console.log("FORM DATA", purchaseArray)
     }

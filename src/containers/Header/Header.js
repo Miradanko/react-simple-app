@@ -13,7 +13,7 @@ const Header = (props) => {
     return (
         <div className='header' id='header'>
             <div>
-                <NavLink exact to='/'>
+                <NavLink exact to='/react-simple-app'>
                     <img src="https://img.icons8.com/ios/35/000000/home.png" alt='main-icon' />
                 </NavLink>
             </div>
