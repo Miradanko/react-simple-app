@@ -1,0 +1,191 @@
+[
+    {
+        "name": "SMALL GATHERED LEATHER BAG",
+        "price": 225,
+        "image": "1.jpg",
+        "article": "QZ9392",
+        "color": "DARK BEIGE",
+        "colorId": "#F4A460",
+        "amount": 1
+    },
+    {
+        "name": "MULTI-FUNCTIONAL PHONE POUCH",
+        "price": 49,
+        "image": "2.jpg",
+        "article": "QZ1892",
+        "color": "KHAKI GREEN",
+        "colorId": "#C4B090",
+        "amount": 1
+    },
+    {
+        "name": "MULTI-FUNCTIONAL PHONE POUCH",
+        "price": 49,
+        "image": "3.jpg",
+        "article": "PF3836",
+        "color": "ORANGE",
+        "colorId": "#FFA500",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER WRIST SHOPPER",
+        "price": 285,
+        "image": "4.jpg",
+        "article": "ZL1262",
+        "color": "GREY",
+        "colorId": "#D3D3D3",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER SQUARE SHOPPER",
+        "price": 285,
+        "image": "5.jpg",
+        "article": "PF3895",
+        "color": "KHAKI GREEN",
+        "colorId": "#C4B090",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER BELT BAG WITH FLAP POCKET",
+        "price": 115,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B1%5D,origin%5Bdam%5D,source%5B/02/a4/02a44f559c0a28c3112a99552847e1dc3bf232cb.jpg%5D,type%5BLOOKBOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "TD1472",
+        "color": "ORANGE",
+        "colorId": "#FFA500",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER TOTE BAG",
+        "price": 285,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B202001151605%5D,source%5B01_0810304_002_7%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "KW5325",
+        "color": "SAND",
+        "colorId": "#FFFAFA",
+        "amount": 1
+    },
+    {
+        "name": "TECHNICAL CROSSBODY BAG",
+        "price": 89,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B202002181435%5D,source%5B01_0848132_001_7%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "LL2571",
+        "color": "LOME GREEN",
+        "colorId": "#F3FFA3",
+        "amount": 1
+    },
+    {
+        "name": "SMALL LIGHTWIEGHT SHOPPER",
+        "price": 49,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B202002051505%5D,source%5B01_0751639_003_6%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "PZ5628",
+        "color": "BLACK",
+        "colorId": "#000000",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER CROSSBODY BAG",
+        "price": 135,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B202002121205%5D,source%5B01_0810298_001_6%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "NF2401",
+        "color": "BLACK",
+        "colorId": "#000000",
+        "amount": 1
+    },
+    {
+        "name": "MINI LEATHER TOTE",
+        "price": 135,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B201912060118%5D,source%5B01_0809145_002_8%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "TH3040",
+        "color": "MUSTARD YELLOW",
+        "colorId": "#FFDEAD",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER PURSE BELT BAG",
+        "price": 99,
+        "image": "https://lp.cosstores.com/app001prod?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B450%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bjpeg%5D&set=key%5Bresolve.quality%5D,value%5B90%5D&set=ImageVersion%5B202001240107%5D,source%5B01_0719849_006_6%5D,type%5BECOMLOOK%5D&call=url%5Bfile:/product/dynamic.chain%5D",
+        "article": "YJ9358",
+        "color": "GREEN",
+        "colorId": "#B0B577",
+        "amount": 1
+    },
+    {
+        "name": "TECHNICAL GYM BAG",
+        "price": 99,
+        "image": "app001prod.jpg",
+        "article": "K2905C",
+        "color": "LIGHT BLUE",
+        "colorId": "#2D578A",
+        "amount": 1
+    },
+    {
+        "name": "PLEATED FABRIC SHOPPER",
+        "price": 59,
+        "image": "app002prod.jpg",
+        "article": "M34DF1",
+        "color": "BRIGHT GREEN",
+        "colorId": "#6EB07C",
+        "amount": 1
+    },
+    {
+        "name": "SMALL LIGHTWEIGHT SHOPPER",
+        "price": 49,
+        "image": "app003prod.jpg",
+        "article": "Z35DP1",
+        "color": "VIBRANT ORANGE",
+        "colorId": "#E7633B",
+        "amount": 1
+    },
+    {
+        "name": "RECYCLED NYLON TOTE",
+        "price": 99,
+        "image": "app004prod.jpg",
+        "article": "535FP8",
+        "color": "MOLE",
+        "colorId": "#CCB49C",
+        "amount": 1
+    },
+    {
+        "name": "STRAW BELT BAG",
+        "price": 89,
+        "image": "app005prod.jpg",
+        "article": "2106P8",
+        "color": "ORANGE",
+        "colorId": "#FFA500",
+        "amount": 1
+    },
+    {
+        "name": "GATHERED LEATHER SHOPPER",
+        "price": 285,
+        "image": "app006prod.jpg",
+        "article": "21F6Q8",
+        "color": "BLACK",
+        "colorId": "#000000",
+        "amount": 1
+    },
+    {
+        "name": "PLEATED FABRIC SHOPPER",
+        "price": 59,
+        "image": "app007prod.jpg",
+        "article": "O1F6Q0",
+        "color": "BLACK",
+        "colorId": "#000000",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER PHONE POUCH",
+        "price": 45,
+        "image": "app008prod.jpg",
+        "article": "61FJQ3",
+        "color": "KHAKI GREEN",
+        "colorId": "#C4B090",
+        "amount": 1
+    },
+    {
+        "name": "LEATHER PHONE POUCH",
+        "price": 49,
+        "image": "app009prod.jpg",
+        "article": "63FJV0",
+        "color": "BLACK",
+        "colorId": "#000000",
+        "amount": 1
+    }
+]

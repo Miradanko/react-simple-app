@@ -1,0 +1,31 @@
+.fav {
+    background-position: left;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: inline-block;
+    
+    &:hover {
+      background-position: right;
+    }
+    
+  }
+  
+  .fav-star {
+    background-image: url("https://cssanimation.rocks/images/posts/steps/twitter_fave.png");
+    height: 45px;
+    width: 64px; // 3584px / 56 frames
+    
+    &.is-animating {
+      animation: zoetrope .8s steps(55) 1;
+    }
+  }
+
+  .filled {
+    background-position: right;
+  }
+  
+  
+  @keyframes zoetrope {
+    from { background-position: left;  }
+    to   { background-position: right; }
+  }

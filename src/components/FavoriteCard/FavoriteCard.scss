@@ -1,0 +1,8 @@
+.favorite-card {
+    position: relative;
+    & .favorite-action {
+        position: absolute;
+        border: 1px solid #DCDCDC;
+        background-color: white;
+    }
+}

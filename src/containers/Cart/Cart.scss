@@ -1,0 +1,26 @@
+.cart-footer {
+    display: flex;
+    width: 1070px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10%;
+    font-size: 25px; 
+
+    & .total-button {
+        width: 200px;
+        position: fixed;
+        top: -30px;
+        left: 85%;
+        
+        & .total {
+            color: #DCDCDC;
+        }
+    }
+}
+.clearCart {
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 5px;
+    height: 20px;
+    width: 70px;
+    margin-top: 50px;
+    background-color: rgba(252, 179, 85, 0.1);
+}

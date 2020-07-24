@@ -1,0 +1,14 @@
+.btn {
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 5px;
+    height: 40px;
+    background-color: #DCDCDC;
+
+    &:active {
+        outline: none;
+        border: none
+    }
+}
+.btn-delete {
+    display: none;
+}

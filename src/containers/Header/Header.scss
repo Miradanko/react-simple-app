@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+}
+.round {
+    width: 30px;
+    height: 30px;
+    border: 1px solid orange;
+    border-radius: 50%;
+    line-height: 30px; 
+    text-align: center;  
+    background: rgba(252, 179, 85, 0.1);
+    color: black;
+    position: relative;
+    top: -30px;
+    right: -26px;
+}

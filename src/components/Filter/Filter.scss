@@ -1,0 +1,18 @@
+.filter {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Quicksand', sans-serif;
+
+    &__select {
+        font-family: 'Quicksand', sans-serif;
+    }
+
+    &__select:focus {
+        font-family: 'Quicksand', sans-serif;
+        background-color: rgba(252, 179, 85, 0.1);
+        outline-color: rgba(252, 179, 85, 0.1);
+    }
+}
+option:selected {
+    background-color: seagreen !important;
+} 

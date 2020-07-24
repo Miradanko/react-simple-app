@@ -1,0 +1,38 @@
+.products {
+        &-img {
+            &-item {
+                width: 300px;
+                height: 450px;
+            }
+        }
+        &-description {
+            padding-left: 10px;
+            width: 300px;
+            margin-top: 450px;
+            margin-left: -110px;
+            padding-top: 7px;
+            font-family: 'Quicksand', sans-serif;
+
+                &-price {
+                    font-size: 13px;
+                }
+                &-color {
+                    display: flex;
+                    justify-content: space-between;
+                        &-container {
+                            display: flex;
+                            font-size: 13px;
+                            &-square {
+                                margin-top: 2px;
+                                width: 12px;
+                                height: 12px;
+                                margin-right: 10px;
+                            }
+                        }
+                }
+        }
+}
+.action-block {
+    display: flex;
+    line-height: 40px;
+}

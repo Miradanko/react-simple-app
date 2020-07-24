@@ -1,0 +1,28 @@
+.cart-action {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    margin-bottom: -20px;
+    & .cart-action-delete {
+        width: 16px;
+        height: 16px;
+        margin-top: 4%;
+    }
+}
+.cart-card-footer {
+    display: flex;
+    justify-content: space-between;
+
+    & .amount {
+        display: flex;
+
+        & .amount {
+            margin-top: -2px;
+        }
+    
+        & .back-next {
+            height: 17px;
+            border: none;
+        }
+    }
+}
