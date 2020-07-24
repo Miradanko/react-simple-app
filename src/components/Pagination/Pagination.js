@@ -14,7 +14,7 @@ const Pagination = ({ postsPerPage, totalPosts, paginate }) => {
                     <li key={number} className="page-item">
                         <NavLink onClick={(e) => {
                             e.preventDefault();
-                            paginate(number)}} exact to="/" className="page-link">
+                            paginate(number)}} exact to="/react-simple-app" className="page-link">
                             {number}
                         </NavLink>
                     </li>
